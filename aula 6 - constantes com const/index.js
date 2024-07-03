@@ -1,18 +1,7 @@
 // ===  estrutura
 
-let nomeDaVariavel; // declara variavel e atribui um nome
+const nomeDaVariavel = "um tipo de dado"; // ao declarar uma variavel const é necessário atribuir um valor;
 
-nomeDaVariavel = "um tipo de dado"; // iniciliza a variável
-
-// === exemplo
-
-let nome = "Carlos";
-
-console.log(nome, "nasceu em 1984.");
-console.log("Em 2000", nome, "conheceu Maria.");
-console.log(nome, "casou-se com Maria em 2012");
-console.log("Maria teve 1 filho com", nome, "em 2015");
-console.log("O filho de", nome, "se chama Eduardo");
 
 // ==================== anotações
 
